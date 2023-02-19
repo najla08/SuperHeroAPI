@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D33A2DD4-0DF1-4BF8-A516-117FA36BA5AD}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/SuperHeroService/SuperHeroService.cs">
+    <Files>
+      <File FileName="Services/SuperHeroService/SuperHeroService.cs" Line="9" Column="6" />
+      <File FileName="Services/SuperHeroService/ISuperHeroService.cs" />
+      <File FileName="Data/DataContext.cs" />
+      <File FileName="Controllers/SuperHeroController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperHeroAPI" expanded="True">
+            <Node name="SuperHeroAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="SuperHeroService" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SuperHeroAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
